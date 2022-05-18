@@ -23,20 +23,20 @@ Project Description: https://cs101.has.coffee/project-circuit-builder
 
 ## Basic tasks
 - [x] Read the document
-- [] Task 1: Read SVG file and display components
-- [] Task 2: Drag and drop components
-- [] Task 3: Connect components using wires
-- [] Task 4: Simulate the whole circuit
+- [ ] Task 1: Read SVG file and display components
+- [ ] Task 2: Drag and drop components
+- [ ] Task 3: Connect components using wires
+- [ ] Task 4: Simulate the whole circuit
 
 ## Bells and Whistles (Additional features) for this project
 
-- [] Task 5: Delete and Rotate Components
-- [] Task 6: Rubber band effect for wires
-- [] Task 7: Move components using keyboard
-- [] Task 8: Undo - Redo
-- [] Task 9: Automatic layout of wires
-- [] Task 10: Create a new component 
-- [] Task 11: Any other feature added by you ...
+- [ ] Task 5: Delete and Rotate Components
+- [ ] Task 6: Rubber band effect for wires
+- [ ] Task 7: Move components using keyboard
+- [ ] Task 8: Undo - Redo
+- [ ] Task 9: Automatic layout of wires
+- [ ] Task 10: Create a new component 
+- [ ] Task 11: Any other feature added by you ...
 
 # Demo video
 Place the link of the demo video here
