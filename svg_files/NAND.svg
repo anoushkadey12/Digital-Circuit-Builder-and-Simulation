@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+
+
+<svg id="NAND" height="400" width="450">
+
+  <line x1="20" y1="35" x2="70" y2="35" stroke="black" stroke-width="3" fill="none"/>
+  <rect x="20" y="28" width="15" height="15" style="fill:rgb(255,0,0)"  InPinNo="1"/>
+  <line x1="20" y1="65" x2="70" y2="65" stroke="black" stroke-width="3" fill="none"/>
+  <rect x="20" y="58" width="15" height="15" style="fill:rgb(255,0,0)" InPinNo="2"/>
+  <line x1="155" y1="50" x2="205" y2="50" stroke="black" stroke-width="3" fill="none"/>
+  <rect x="202" y="43" width="15" height="15" style="fill:rgb(255,0,0)" OutPinNo="1" />
+  
+  <circle cx="150" cy="50" r="5" stroke="black" stroke-width="3" fill="none" />
+
+  <line x1="70" y1="19" x2="70" y2="81" stroke="black" stroke-width="3" fill="none"/>
+  <line x1="70" y1="20" x2="116" y2="20" stroke="black" stroke-width="3" fill="none"/>
+  <line x1="70" y1="80" x2="116" y2="80" stroke="black" stroke-width="3" fill="none"/>
+
+  <path d="M115,20 Q170,50 115,80" stroke="black" stroke-width="3" fill="none"/>
+
+</svg>
+
+
+

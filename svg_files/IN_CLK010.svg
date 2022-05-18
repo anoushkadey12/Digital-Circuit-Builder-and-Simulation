@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<svg>
+    <!-- Rectangle -->
+	<line x1="20" y1="19" x2="142" y2="19" stroke="black" stroke-width="3" fill="none"/>
+	<line x1="20" y1="19" x2="20" y2="81" stroke="black" stroke-width="3" fill="none"/>
+	<line x1="20" y1="81" x2="142" y2="81" stroke="black" stroke-width="3" fill="none"/>
+	<line x1="142" y1="81" x2="142" y2="19" stroke="black" stroke-width="3" fill="none"/>
+
+	<!-- Output line and pin -->
+    <line x1="140" y1="50" x2="190" y2="50" stroke="black" stroke-width="3" fill="none"/>
+    <rect x="190" y="43" width="15" height="15" style="fill:rgb(255,0,0)"  OutPinNo="1"/>
+
+	<!-- Waveform -->
+	<line x1="41" y1="70" x2="71" y2="70" stroke="black" stroke-width="3" fill="none"/>
+    
+	<line x1="71" y1="70" x2="71" y2="32" stroke="black" stroke-width="3" fill="none"/>
+    
+	<line x1="71" y1="32" x2="101" y2="32" stroke="black" stroke-width="3" fill="none"/>
+
+    <line x1="101" y1="70" x2="101" y2="32" stroke="black" stroke-width="3" fill="none"/>
+	<line x1="101" y1="70" x2="131" y2="70" stroke="black" stroke-width="3" fill="none"/>
+
+    <text x="25" y="35"> H </text>
+    <text x="25" y="73"> L </text>
+</svg>
