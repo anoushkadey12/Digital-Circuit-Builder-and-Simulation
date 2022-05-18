@@ -1,6 +1,6 @@
 # Digital-Circuit-Builder-and-Simulation
 
-![Digital-Circuit-Builder-and-Simulation](https://socialify.git.ci/iitbcs101/Digital-Circuit-Builder-and-Simulation/image?description=1&descriptionEditable=A%20SimpleCpp%20Application&font=Source%20Code%20Pro&language=1&pattern=Circuit%20Board&theme=Dark)
+![Digital-Circuit-Builder-and-Simulation](https://socialify.git.ci/iitbcs101/Digital-Circuit-Builder-and-Simulation/image?description=1&descriptionEditable=A%20SimpleCpp%20Application&font=Source%20Code%20Pro&forks=1&language=1&pattern=Circuit%20Board&stargazers=1&theme=Light)
 
 <h3 align="center"> 
 
